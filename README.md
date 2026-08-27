@@ -12,7 +12,6 @@
 - 💻 Focused on **Backend Development**, with hands-on experience building APIs, server-side logic, databases, and real-time systems
 - 🛡️ Built a full-stack parental control system combining **Node.js, MongoDB, Socket.IO, React Native, and native Android development with Kotlin**
 - ☁️ Designed and developed a **serverless AWS application** using services such as Lambda, API Gateway, DynamoDB, Cognito, S3, CloudFront, and EventBridge
-- 🗄️ Worked with both **SQL and NoSQL databases**, including SQL Server and MongoDB
 - 🌐 Academic and project experience in **networking, cybersecurity, cloud computing, and software architecture**
 - 🌱 Currently strengthening my skills in **backend development, cybersecurity, cloud computing, Linux, and algorithms**
 - 📊 Additional experience with **graph algorithms, data analysis, and interactive data visualization**
