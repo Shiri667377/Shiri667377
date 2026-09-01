@@ -128,7 +128,7 @@ A web application designed to help groups find the best common meeting time.
 
 ### Planned Tech Stack
 
-`React` `Node.js` `Express` `PostgreSQL` `Google Calendar API`
+`React` `Java` `Spring Boot` `PostgreSQL` `Google Calendar API`
 
 🔗 [View Repository](https://github.com/Shiri667377/WeCanMeet)
 
